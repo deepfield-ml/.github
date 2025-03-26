@@ -1,9 +1,5 @@
-## Hi there 👋
+# DeepField: Adapt. Improvise. Overcome. 
 
-**Welcome to deepfield-ml**
+We're a team of 2 students eager to develop ML. Our projects focus machine learning onto aspects of real life. 
 
-🙋‍♀️ Here, we implement the art of artificial intelligence into daily live, from medical usage to football...
-🌈 Contribution guidelines - We are all open-source and you are welcome to discuss in our community, create pull requests or address an issue.
-👩‍💻 Useful resources - All repo's have links to web apps, papers, or models...
-🍿 Fun facts - We don't eat breakfast
-
+We are currently working on Project Maradona, a realtime soccer assistant with the goal of using one camera to analyze all aspects of the game. 
